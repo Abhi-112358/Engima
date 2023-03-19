@@ -1,6 +1,10 @@
 #Enigma
 
+Source/Skeleton Code: UC Berkeley's CS61B: Data Structures
 
-Source/Skeleton Code: CS61B: Data Structures
+The project is based on the historical Enigma machine used by the German military during World War II to encrypt their communications
 
-To run, 
+
+To run:
+1. Clone Repository
+2. 
